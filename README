@@ -2,8 +2,13 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=5112
 
 This is a darkish scheme with various cold colors of which most are green/blue.
 
+Recommend to install vimscript #4293 and vimscript #1640 to support STL and C++11.
+
 Note that I only defined gui colors and the term colors were automatically converted to. So probably you need vimscript #2682 or something else to get better performance in terminal.
 
+Note2: I failed to make this scheme compatible with win32 vim terminal.
+
 Screenshots:
-In GVim: http://i1377.photobucket.com/albums/ah43/lz96/perfectdark_zpsa7099350.png
-In terminal (vimcat): http://i1377.photobucket.com/albums/ah43/lz96/perfectDarkinterm_zps34785a7a.png
+In Linux GVim: http://i1377.photobucket.com/albums/ah43/lz96/perfectdark_zpsa7099350.png
+In Windows GVim: http://i1377.photobucket.com/albums/ah43/lz96/win_zps3c95ecff.jpg
+In Linux terminal (vimcat): http://i1377.photobucket.com/albums/ah43/lz96/perfectDarkinterm_zps34785a7a.png
