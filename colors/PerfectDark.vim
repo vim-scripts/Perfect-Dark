@@ -1,7 +1,7 @@
 " Colorscheme created with ColorSchemeEditor v1.2.3
 "Name: PerfectDark
 "Maintainer: Vic Luo <lz96@foxmail.com>
-"Last Change: 2015 02 17
+"Last Change: 2015 09 12
 set background=dark
 if version > 580
 	highlight clear
@@ -75,7 +75,7 @@ highlight link Include PreProc
 highlight link Keyword Statement
 highlight link Label Statement
 highlight Macro guifg=#ae2fae gui=bold  cterm=bold
-highlight Number guifg=#546cff gui=NONE  cterm=NONE
+highlight Number guifg=#549dc1 gui=NONE  cterm=NONE
 highlight link Operator Statement
 highlight PreCondit guifg=#ac8dc6 gui=bold  cterm=bold
 highlight PreProc guifg=#ae2fae gui=bold  cterm=bold
@@ -100,7 +100,7 @@ highlight cPreProc guifg=#ed0000 gui=bold
 if v:version >= 700
 	let g:native_Metadata = {
 				\"Palette" : "black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90",
-				\"Last Change" : "2015 02 17",
+				\"Last Change" : "2015 09 12",
 				\"Name" : "PerfectDark",
 				\}
 endif
